@@ -1,0 +1,6 @@
+Confguração do GIT
+git config --global user.name "seu nome"
+git config --global user.email "seu email"
+
+Inicializar o GIT em seu projeto
+git init
